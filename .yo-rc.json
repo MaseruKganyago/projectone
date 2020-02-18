@@ -1,0 +1,69 @@
+{
+  "generator-nextjs-typescript-antd": {
+    "pages": [
+      {
+        "name": "about",
+        "path": "about"
+      },
+      {
+        "name": "index",
+        "path": "index"
+      },
+      {
+        "name": "post",
+        "path": "post"
+      },
+      {
+        "name": "posts",
+        "path": "posts"
+      },
+      {
+        "name": "landing-page",
+        "path": "landing-page"
+      },
+      {
+        "name": "login",
+        "path": "login"
+      },
+      {
+        "name": "register",
+        "path": "register"
+      },
+      {
+        "name": "fuel-wise",
+        "path": "fuel-wise"
+      },
+      {
+        "name": "public-transport?",
+        "path": "public-transport?"
+      },
+      {
+        "name": "public-transport",
+        "path": "public-transport"
+      },
+      {
+        "name": "addpost",
+        "path": "public-transport/addpost"
+      },
+      {
+        "name": "editpost",
+        "path": "public-transport/editpost"
+      },
+      {
+        "name": "showpost",
+        "path": "public-transport/showpost"
+      },
+      {
+        "name": "registration-succesful",
+        "path": "register/registration-succesful"
+      },
+      {
+        "name": "sign-in",
+        "path": "sign-in"
+      }
+    ],
+    "stores": [
+      "Posts"
+    ]
+  }
+}
